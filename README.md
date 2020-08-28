@@ -20,7 +20,7 @@ Your users should be able to:
 
 - View the optimal layout for each page depending on their device's screen size
 - See hover states for all interactive elements on the page
-- See their own IP Address on the map on first page load
+- See their own IP Address on the map on the initial page load
 - Search for any IP addresses or domains and see the key information and location
 
 ⚠️ **IMPORTANT** ⚠️: For the mapping API, we recommend using [LeafletJS](https://leafletjs.com/). It's free to use and doesn't require an API Key. If you decide to use another API, like Google Maps or Mapbox, be sure to secure your API Key. Here are guides for both Google Maps and Mapbox, be sure to read through them thoroughly:
