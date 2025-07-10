@@ -11,8 +11,8 @@ The designs were created to the following widths:
 
 ## Colors
 
-- Very Dark Gray: hsl(0, 0%, 17%)
-- Dark Gray: hsl(0, 0%, 59%)
+- Gray 950: hsl(0, 0%, 17%)
+- Gray 400: hsl(0, 0%, 58%)
 
 ## Typography
 
